@@ -15,3 +15,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=binjoo&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&custom_title=Github+Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=binjoo&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Noteboo&custom_title=Top+Languages)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=binjoo)

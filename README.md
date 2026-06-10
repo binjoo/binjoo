@@ -12,6 +12,8 @@
 
 <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binjoo&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Noteboo&custom_title=Top+Languages" height="192px"/>
 
+<br />
+
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->

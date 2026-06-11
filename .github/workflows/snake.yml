@@ -1,4 +1,4 @@
-name: contribution snake
+name: Snake
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate contribution snake
+      - name: Generate
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             static/images/github-contribution-grid-snake-light.svg
             static/images/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
